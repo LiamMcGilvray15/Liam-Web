@@ -1,0 +1,38 @@
+<!DOCTYPE HTML5>
+<html>
+  
+  <head>
+    <title>Liam's Page</title>
+  </head>  
+  
+  <body>
+    <div>
+      <h1>Welcome to Liam's page</h1>
+    </div>
+    <div>
+      <ul>
+        <li><a href="#aboutme">About me</a></li>
+        <li><a href="#hip">First year Hip</a></li>
+        <li><a href="#secondyear">Second Year Project</a></li>
+      </ul>  
+    </div>  
+    <div id="aboutme">
+      <h2>About me</h2>
+      <h3>Sports</h3>
+        <p>My two favorite sports are running and basketball. I have ran for most of my life, starting with track and field at the age of 5. My friends call me crazy for loveing to run but I find it crazy they don't fell the same way. In highschool, I did cross country my freshman year, and track all four years. Starting in 7th grade, I joined a group called Students Run LA (SRLA), and have ran the LA Marathon 5 times. I joined the Basketball team my sophmore year and wworked my way to JV captain. Junior year I got moved up to Varsity and was still made captain. Junior year, for the first time in Canoga Park High School history our boys Basketball team won the City Championship! This year i am the head captain and we are looking to win back to back titles.</p>
+      <h3>Band</h3>
+        <p>Band has been one of my favorite experiences of my high school career. I've played the trumpet for eight years now. When I first join the Canoga Band we had around 16 to 18 people. Over the years our program has grown and we now stand at a strong 40. I played Trumpet freshman through junior year and this year I am the Drum Major. My sophmore year, I had the opportunity to be a part of the LAUSD ALL-City Marching Band. We march several parades including the Rose Parade. Near the end of our season I received and honorable mention for my hard work. I joined the All-City band the following year and was awarded the 2017-2018 Marching King. This upcoming season I am trying out for Drum Major of the All-City Marching Band.</p>
+      <h3>School</h3>
+        <p>Right now my favorite class is physics. I love problem solving and that is one of the main reasons I am persuing the STEM field and engineering. At this time I lean more toward Mechanical Engineering but still want to explore my options and see what the other fields are like.</p>
+    </div>  
+    <div id="hip">  
+      <h2>First year Hip</h2>
+      <h3>Favorite project</h3>
+      <h3>Other Projects</h3>
+    </div>
+    <div id="secondyear">
+      <h2>Second year Project</h2>
+      <h3>Sheet music writer</h3>
+    </div>  
+  </body>
+</html>  
